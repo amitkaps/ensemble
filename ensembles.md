@@ -13,7 +13,7 @@ theme: Olive Green , 9
 
 ---
 
-# Ensembles
+# **Ensembles**
 ### ___
 
 *"It is the harmony of the diverse parts, their symmetry, their happy balance; in a word it is all that introduces order, all that gives unity, that permits us to see clearly and to comprehend at once both the ensemble and the details."*
@@ -30,8 +30,8 @@ theme: Olive Green , 9
 **Refine**: Data wrangling
 **Transform**: Feature creation 
 **Explore**: Feature selection 
-**Model**: Model selection & evaluation
-**Insight**: Communication 
+**Model**: Model selection
+**Insight**: Solution communication 
 
 ---
 
@@ -116,7 +116,7 @@ Show the **Decision Space**
 
 ---
 
-# Make Many Simple Models
+# Make **Many Simple** Models
 ### ___
 
 Models = {
@@ -136,8 +136,10 @@ Multi Layer **Perceptron**,
 
 ---
 
-#[fit] Features? Models?
+![original](img/fig_06_forest.png)
 
+---
+![original](img/fig_07_boosting.png)
 
 ---
 
